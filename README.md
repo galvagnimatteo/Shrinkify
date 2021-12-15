@@ -31,7 +31,7 @@ Some files are not included for privacy, they need to be manually created:
 
 `mnemonic.secret` with the mnemonic phrase of the contract's owner wallet.
 
-`providerlink.secret` with the link to the node's provider of the choosen network, with API key if needed (ex: https://polygon-mumbai.g.alchemy.com/v2/SECRET).
+`providerlink.secret` with the link to the node's provider of the choosen network, with API key if needed (Eg: https://polygon-mumbai.g.alchemy.com/v2/SECRET).
 
 `apikey.secret` with your Etherscan/BSCscan/Polygonscan API key, for verifying the contract's code.
 
