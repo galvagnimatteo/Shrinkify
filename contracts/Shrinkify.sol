@@ -25,7 +25,7 @@ contract Shrinkify is ERC20, Ownable {
 
     bool inSwapAndLiquify;
 
-    constructor() ERC20("The Purge", "PURGE") {
+    constructor() ERC20("Shrinkify", "SHRINK") {
 
         _mint(msg.sender, 1000000000 * 10**uint(decimals())); //mint adds minted value to _totalSupply
 
